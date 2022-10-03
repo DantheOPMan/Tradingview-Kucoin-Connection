@@ -1,0 +1,2 @@
+# Tradingview-Kucoin-Connection
+ 
